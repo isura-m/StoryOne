@@ -1,6 +1,2 @@
-chapter 2 initial message
-<<<<<<< HEAD
-Second chapter invaded by Lrr from Omricon Persei
-=======
-dev2 added this text
->>>>>>> dev2
+Chapter two text
+Miami
